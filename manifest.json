@@ -8,9 +8,11 @@
      "id": "ch-fushu",
      "name": "复数",
      "count": 4,
-     "file": "math/ch-fushu.json"
+     "file": "math/ch-fushu.json",
+     "order": 1
     }
    ]
   }
- }
+ },
+ "note": "order = 章在题库装载序列中的位置（P1 内联副本未删时顺序由内联决定；将来删内联后装载按 order 插入）"
 }
