@@ -1,6 +1,6 @@
 {
- "version": "2026.09.27.5",
- "updated": "2026-09-27T08:10:53.454Z",
+ "version": "2026.09.27.6",
+ "updated": "2026-09-27T08:20:12.341Z",
  "subjects": {
   "math": {
    "chapters": [
@@ -44,7 +44,7 @@
      "name": "概率与统计",
      "count": 8,
      "file": "math/ch-gailv.json",
-     "order": 6
+     "order": 5
     },
     {
      "id": "ch-hanshu",
@@ -54,21 +54,28 @@
      "order": 7
     },
     {
-     "id": "ch-sanjiao",
-     "name": "三角函数与解三角形",
-     "count": 10,
-     "file": "math/ch-sanjiao.json",
-     "order": 8
-    },
-    {
      "id": "ch-dengshi",
      "name": "不等式",
      "count": 9,
      "file": "math/ch-dengshi.json",
+     "order": 8
+    },
+    {
+     "id": "ch-sanjiao",
+     "name": "三角函数与解三角形",
+     "count": 10,
+     "file": "math/ch-sanjiao.json",
      "order": 9
+    },
+    {
+     "id": "ch-shulie",
+     "name": "数列",
+     "count": 178,
+     "file": "math/ch-shulie.json",
+     "order": 10
     }
    ]
   }
  },
- "note": "order = 章在题库装载序列中的位置（P1 内联副本未删时顺序由内联决定；将来删内联后装载按 order 插入）"
+ "note": "order = 章在题库装载序列中的位置（P2 期间内联副本未删，顺序由内联决定；P3 删内联后按 order 插入）。导数章（248 题）P2 下批追加。"
 }
