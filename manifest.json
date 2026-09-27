@@ -1,6 +1,6 @@
 {
- "version": "2026.09.27.4",
- "updated": "2026-09-27T08:05:40.953Z",
+ "version": "2026.09.27.5",
+ "updated": "2026-09-27T08:10:53.454Z",
  "subjects": {
   "math": {
    "chapters": [
@@ -52,6 +52,20 @@
      "count": 9,
      "file": "math/ch-hanshu.json",
      "order": 7
+    },
+    {
+     "id": "ch-sanjiao",
+     "name": "三角函数与解三角形",
+     "count": 10,
+     "file": "math/ch-sanjiao.json",
+     "order": 8
+    },
+    {
+     "id": "ch-dengshi",
+     "name": "不等式",
+     "count": 9,
+     "file": "math/ch-dengshi.json",
+     "order": 9
     }
    ]
   }
