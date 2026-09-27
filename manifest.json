@@ -1,6 +1,6 @@
 {
- "version": "2026.09.27.1",
- "updated": "2026-09-27T06:14:14.944Z",
+ "version": "2026.09.27.4",
+ "updated": "2026-09-27T08:05:40.953Z",
  "subjects": {
   "math": {
    "chapters": [
@@ -10,6 +10,48 @@
      "count": 4,
      "file": "math/ch-fushu.json",
      "order": 1
+    },
+    {
+     "id": "ch-xiangliang",
+     "name": "平面向量",
+     "count": 5,
+     "file": "math/ch-xiangliang.json",
+     "order": 2
+    },
+    {
+     "id": "ch-jihe",
+     "name": "平面解析几何",
+     "count": 6,
+     "file": "math/ch-jihe.json",
+     "order": 3
+    },
+    {
+     "id": "ch-liti",
+     "name": "立体几何",
+     "count": 6,
+     "file": "math/ch-liti.json",
+     "order": 4
+    },
+    {
+     "id": "ch-jihe2",
+     "name": "集合与常用逻辑用语",
+     "count": 8,
+     "file": "math/ch-jihe2.json",
+     "order": 5
+    },
+    {
+     "id": "ch-gailv",
+     "name": "概率与统计",
+     "count": 8,
+     "file": "math/ch-gailv.json",
+     "order": 6
+    },
+    {
+     "id": "ch-hanshu",
+     "name": "函数",
+     "count": 9,
+     "file": "math/ch-hanshu.json",
+     "order": 7
     }
    ]
   }
