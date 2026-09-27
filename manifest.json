@@ -1,6 +1,6 @@
 {
- "version": "2026.09.27.8",
- "updated": "2026-09-27T08:48:48.351Z",
+ "version": "2026.09.27.9",
+ "updated": "2026-09-27T09:56:51.856Z",
  "subjects": {
   "math": {
    "chapters": [
@@ -21,7 +21,7 @@
     {
      "id": "ch-jihe",
      "name": "平面解析几何",
-     "count": 6,
+     "count": 86,
      "file": "math/ch-jihe.json",
      "order": 3
     },
