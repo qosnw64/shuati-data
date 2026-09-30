@@ -1,6 +1,6 @@
 {
- "version": "2026.10.2",
- "updated": "2026-09-30T13:49:30.313Z",
+ "version": "2026.10.3",
+ "updated": "2026-09-30T14:28:25.788Z",
  "subjects": {
   "math": {
    "chapters": [
@@ -86,11 +86,32 @@
   "chemistry": {
    "chapters": [
     {
-     "id": "ch-chem-all",
-     "name": "化学大题 200 题",
-     "count": 200,
-     "file": "chem/chem-all.json",
+     "id": "ch-chem-p1",
+     "name": "化学大题 第1组",
+     "count": 38,
+     "file": "chem/chem-p1.json",
      "order": 1
+    },
+    {
+     "id": "ch-chem-p2",
+     "name": "化学大题 第2组",
+     "count": 29,
+     "file": "chem/chem-p2.json",
+     "order": 2
+    },
+    {
+     "id": "ch-chem-p3",
+     "name": "化学大题 第3组",
+     "count": 31,
+     "file": "chem/chem-p3.json",
+     "order": 3
+    },
+    {
+     "id": "ch-chem-p4",
+     "name": "化学大题 第4组",
+     "count": 102,
+     "file": "chem/chem-p4.json",
+     "order": 4
     }
    ]
   },
