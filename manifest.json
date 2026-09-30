@@ -1,6 +1,6 @@
 {
- "version": "2026.10.1",
- "updated": "2026-09-30T13:30:33.208Z",
+ "version": "2026.10.2",
+ "updated": "2026-09-30T13:49:30.313Z",
  "subjects": {
   "math": {
    "chapters": [
@@ -100,7 +100,7 @@
      "id": "ch-oneq-all",
      "name": "一题多问大题",
      "count": 6,
-     "file": "oneq/oneq-all.json",
+     "file": "oneq-all/oneq-all.json",
      "order": 1
     }
    ]
