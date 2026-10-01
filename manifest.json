@@ -1,131 +1,131 @@
 {
- "version": "2026.10.3",
- "updated": "2026-09-30T14:28:25.788Z",
- "subjects": {
-  "math": {
-   "chapters": [
-    {
-     "id": "ch-fushu",
-     "name": "复数",
-     "count": 4,
-     "file": "math/ch-fushu.json",
-     "order": 1
+  "version": "2026.09.27.10",
+  "updated": "2026-09-30T14:28:25.788Z",
+  "subjects": {
+    "math": {
+      "chapters": [
+        {
+          "id": "ch-fushu",
+          "name": "复数",
+          "count": 4,
+          "file": "math/ch-fushu.json",
+          "order": 1
+        },
+        {
+          "id": "ch-xiangliang",
+          "name": "平面向量",
+          "count": 5,
+          "file": "math/ch-xiangliang.json",
+          "order": 2
+        },
+        {
+          "id": "ch-jihe",
+          "name": "平面解析几何",
+          "count": 86,
+          "file": "math/ch-jihe.json",
+          "order": 3
+        },
+        {
+          "id": "ch-liti",
+          "name": "立体几何",
+          "count": 6,
+          "file": "math/ch-liti.json",
+          "order": 4
+        },
+        {
+          "id": "ch-jihe2",
+          "name": "集合与常用逻辑用语",
+          "count": 8,
+          "file": "math/ch-jihe2.json",
+          "order": 5
+        },
+        {
+          "id": "ch-gailv",
+          "name": "概率与统计",
+          "count": 8,
+          "file": "math/ch-gailv.json",
+          "order": 6
+        },
+        {
+          "id": "ch-hanshu",
+          "name": "函数",
+          "count": 9,
+          "file": "math/ch-hanshu.json",
+          "order": 7
+        },
+        {
+          "id": "ch-dengshi",
+          "name": "不等式",
+          "count": 9,
+          "file": "math/ch-dengshi.json",
+          "order": 8
+        },
+        {
+          "id": "ch-sanjiao",
+          "name": "三角函数与解三角形",
+          "count": 10,
+          "file": "math/ch-sanjiao.json",
+          "order": 9
+        },
+        {
+          "id": "ch-shulie",
+          "name": "数列",
+          "count": 178,
+          "file": "math/ch-shulie.json",
+          "order": 10
+        },
+        {
+          "id": "ch-daoshu",
+          "name": "导数",
+          "count": 248,
+          "file": "math/ch-daoshu.json",
+          "order": 11
+        }
+      ]
     },
-    {
-     "id": "ch-xiangliang",
-     "name": "平面向量",
-     "count": 5,
-     "file": "math/ch-xiangliang.json",
-     "order": 2
+    "chemistry": {
+      "chapters": [
+        {
+          "id": "ch-chem-p1",
+          "name": "化学大题 第1组",
+          "count": 38,
+          "file": "chem/chem-p1.json",
+          "order": 1
+        },
+        {
+          "id": "ch-chem-p2",
+          "name": "化学大题 第2组",
+          "count": 29,
+          "file": "chem/chem-p2.json",
+          "order": 2
+        },
+        {
+          "id": "ch-chem-p3",
+          "name": "化学大题 第3组",
+          "count": 31,
+          "file": "chem/chem-p3.json",
+          "order": 3
+        },
+        {
+          "id": "ch-chem-p4",
+          "name": "化学大题 第4组",
+          "count": 102,
+          "file": "chem/chem-p4.json",
+          "order": 4
+        }
+      ]
     },
-    {
-     "id": "ch-jihe",
-     "name": "平面解析几何",
-     "count": 86,
-     "file": "math/ch-jihe.json",
-     "order": 3
-    },
-    {
-     "id": "ch-liti",
-     "name": "立体几何",
-     "count": 6,
-     "file": "math/ch-liti.json",
-     "order": 4
-    },
-    {
-     "id": "ch-jihe2",
-     "name": "集合与常用逻辑用语",
-     "count": 8,
-     "file": "math/ch-jihe2.json",
-     "order": 5
-    },
-    {
-     "id": "ch-gailv",
-     "name": "概率与统计",
-     "count": 8,
-     "file": "math/ch-gailv.json",
-     "order": 6
-    },
-    {
-     "id": "ch-hanshu",
-     "name": "函数",
-     "count": 9,
-     "file": "math/ch-hanshu.json",
-     "order": 7
-    },
-    {
-     "id": "ch-dengshi",
-     "name": "不等式",
-     "count": 9,
-     "file": "math/ch-dengshi.json",
-     "order": 8
-    },
-    {
-     "id": "ch-sanjiao",
-     "name": "三角函数与解三角形",
-     "count": 10,
-     "file": "math/ch-sanjiao.json",
-     "order": 9
-    },
-    {
-     "id": "ch-shulie",
-     "name": "数列",
-     "count": 178,
-     "file": "math/ch-shulie.json",
-     "order": 10
-    },
-    {
-     "id": "ch-daoshu",
-     "name": "导数",
-     "count": 248,
-     "file": "math/ch-daoshu.json",
-     "order": 11
+    "oneq": {
+      "chapters": [
+        {
+          "id": "ch-oneq-all",
+          "name": "一题多问大题",
+          "count": 6,
+          "file": "oneq-all/oneq-all.json",
+          "order": 1
+        }
+      ]
     }
-   ]
   },
-  "chemistry": {
-   "chapters": [
-    {
-     "id": "ch-chem-p1",
-     "name": "化学大题 第1组",
-     "count": 38,
-     "file": "chem/chem-p1.json",
-     "order": 1
-    },
-    {
-     "id": "ch-chem-p2",
-     "name": "化学大题 第2组",
-     "count": 29,
-     "file": "chem/chem-p2.json",
-     "order": 2
-    },
-    {
-     "id": "ch-chem-p3",
-     "name": "化学大题 第3组",
-     "count": 31,
-     "file": "chem/chem-p3.json",
-     "order": 3
-    },
-    {
-     "id": "ch-chem-p4",
-     "name": "化学大题 第4组",
-     "count": 102,
-     "file": "chem/chem-p4.json",
-     "order": 4
-    }
-   ]
-  },
-  "oneq": {
-   "chapters": [
-    {
-     "id": "ch-oneq-all",
-     "name": "一题多问大题",
-     "count": 6,
-     "file": "oneq-all/oneq-all.json",
-     "order": 1
-    }
-   ]
-  }
- },
- "note": "order = 章在题库装载序列中的位置（P2 期间内联副本未删，顺序由内联决定；P3 删内联后按 order 插入）。导数章（248 题）P2 下批追加。"
+  "note": "order = 章在题库装载序列中的位置（P2 期间内联副本未删，顺序由内联决定；P3 删内联后按 order 插入）。导数章（248 题）P2 下批追加。"
 }
